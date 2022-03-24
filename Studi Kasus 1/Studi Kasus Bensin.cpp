@@ -30,11 +30,42 @@ void Jenis::pil(){
 	cout << "Masukan nama anda : ";
 	cin>>nama;
 	cout<<"Pilih Jenis Bensin yang anda inginkan : "<<endl;
-	cout<<"a. Pertalite "<<endl;
-	cout<<"b. Pertamax"<<endl;
+	cout<<"A. Pertalite "<<endl;
+	cout<<"B. Pertamax"<<endl;
 	cout<<"Pilihan anda = ";
 	cin>>pilih;
 	
+	if(pilih == 'A'){
+		cout<<"Berapa Liter Bensin yang anda inginkan ?"<<endl;
+		in>>liter;
+		total = liter * pertalite;
+		cout<<"Total Harga yang harus dibayar = Rp "<<total<<endl; }
+	else if (pilih == 'B') {
+		cout<<"Berapa Liter Bensin yang anda inginkan ?"<<endl;
+		cin>>liter;
+		total = liter * pertamax;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	int main(){
+
+	Jenis spbu;
+	spbu.pil();
+	return 0;
+}
 	
 
 	
