@@ -30,17 +30,17 @@ void Jenis::pil(){
 	cout << "Masukan nama anda : ";
 	cin>>nama;
 	cout<<"Pilih Jenis Bensin yang anda inginkan : "<<endl;
-	cout<<"A. Pertalite "<<endl;
-	cout<<"B. Pertamax"<<endl;
+	cout<<"a. Pertalite "<<endl;
+	cout<<"b. Pertamax"<<endl;
 	cout<<"Pilihan anda = ";
 	cin>>pilih;
 	
-	if(pilih == 'A'){
+	if(pilih == 'a'){
 		cout<<"Berapa Liter Bensin yang anda inginkan ?"<<endl;
 		in>>liter;
 		total = liter * pertalite;
 		cout<<"Total Harga yang harus dibayar = Rp "<<total<<endl; }
-	else if (pilih == 'B') {
+	else if (pilih == 'b') {
 		cout<<"Berapa Liter Bensin yang anda inginkan ?"<<endl;
 		cin>>liter;
 		total = liter * pertamax;
