@@ -45,11 +45,11 @@ void Jenis::pil(){
 		cin>>liter;
 		total = liter * pertamax;
 		
-		
-		
-		
-		
-		
+		cout<<"========================"<<endl;
+		cout<<"Nama = "<<nama<<endl;
+		cout<<"Total Liter"<<liter<<endl;
+		cout<<"Total Harga"<<total<<endl;
+		cout<<"========================"<<endl;
 		
 		
 		
