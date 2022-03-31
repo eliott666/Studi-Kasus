@@ -1,0 +1,17 @@
+========================================
+            SLIP PEMBAYARAN           
+============WAROENG POJOK============
+================MENU=================
+1. Ayam Geprek  ( Rp. 21000 ) 
+2. Ayam Goreng  ( Rp. 17000 ) 
+3. Udang Goreng ( Rp. 19000 ) 
+4. Cumi Goreng  ( Rp. 20000 ) 
+5. Ayam Bakar   ( Rp. 25000 ) 
+========================================
+Total Belanjaan Anda    : 36000
+Uang Yang Kamu Bayarkan : 40000
+Jumlah kembalian        : 4000
+========================================
+              TERIMAKASIH           
+           selamat menikmati        
+========================================
