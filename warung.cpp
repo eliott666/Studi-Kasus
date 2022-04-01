@@ -1,5 +1,6 @@
 #include<iostream>
-#include<fstream>
+#include<fstream> //library fstream digunakan untuk mendeklarasikan struk ke dalam notepad
+
 using namespace std;
 
 class waroeng{
